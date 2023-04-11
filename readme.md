@@ -51,6 +51,7 @@ MMRMMRMRRM
 parsed_input = parse_input(input_string)
 result = run(parsed_input)
 print(result)
+```
 
 This will output the two rovers final positions:
 
